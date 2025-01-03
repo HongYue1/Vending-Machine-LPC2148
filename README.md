@@ -2,6 +2,13 @@
 
 This repository contains the source code for a vending machine controller implemented using an LPC2148 microcontroller. The system handles money insertion, product selection via buttons, and dispensing of selected products using a stepper motor. It also uses an LCD to display messages and prompts.
 
+<img width="1280" alt="1" src="https://github.com/user-attachments/assets/3d8e0e61-8d8e-401c-b47b-ff62ea3c85f7" />
+
+<img width="1280" alt="2" src="https://github.com/user-attachments/assets/cb575ef8-10fe-439c-9f9e-dd8fc9c8c9cf" />
+ 
+<img width="1280" alt="3" src="https://github.com/user-attachments/assets/2f79a772-5458-4c75-9d75-8e052471be41" />
+
+
 ## Features
 
 -   **Money Insertion Detection:** Uses an LDR connected to an ADC to detect when money is inserted.
